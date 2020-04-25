@@ -8,4 +8,4 @@ porque convenhamos, e chato pra caralho ter que montar
 cada tabelinha, fazer as contas, montar o balancete na mao
 
 desenvolvido por Lucca Bibar, um desocupado no trabalho
-@bibaromito
+@bibaronceagain
