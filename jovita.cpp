@@ -6,8 +6,8 @@
     a materia do 2o bimestre do 3o ano de gestao de negocios
 
     desenvolvido por Lucca Bibar, um desocupado no trabalho
-    @bibaromito
-
+    @bibaronceagain
+    
 */
 
 #include<math.h>
